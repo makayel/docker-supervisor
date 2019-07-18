@@ -1,4 +1,4 @@
-FROM centos:7.5.1804
+FROM centos:7.6.1810
 MAINTAINER Michael Hatoum <michael@adaltas.com>
 
 # docker build -t makayel/supervisor .
